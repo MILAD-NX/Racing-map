@@ -1,0 +1,110 @@
+Pimp BALL my ride 1
+
+----- DESCRIPTION:
+
+What a pleasure ! You go up to 7th heaven and you come back down to earth! By what route? You choose ! But during the descent ... you will have fun on the right ... and on the left ... pay attention! Difficult to access jumps. This map is designed to overheat
+any car. Not in a race, but in dizzying jumps and acrobatics. Teleportation points have been placed in several places. (LSPD, LSCustom, casino and others) in order to go up quickly and try another run!
+
+
+CHALLENGES await you and many more challenges to discover.
+1- Place C4 explosives IN THE LOCATION where the balloons are and detonate at the      same time. And face this dangerous avalanche head-on!
+2- Hit the props of the large statues. (Eyes, teeth, hat, etc.)
+3- the perfect big jump, without hitting the barrier and perfectly crossing the tube at 90 ° degrees!
+
+----- INSTALL : (Extract to: Grand Theft Auto V\menyooStuff\Spooner)
+
+----- REQUIREMENTS: MENYOO 
+Menyoo  
+(https://www.gta5-mods.com/scripts/menyoo-pc-sp)
+
+
+----- Game FIX: 
+
+gameconfig -- Installation: Open in openIV: mods> update> update.rpf> common> "data" 
+(https://www.gta5-mods.com/misc/gta-5-gameconfig-300-cars)
+
+HeapAdjuster 
+(https://www.gta5-mods.com/tools/heapadjuster)
+
+No Boundary Limits 
+(https://www.gta5-mods.com/scripts/no-boundary-limits-unknown-modder)
+
+Packfile Limit Adjuster
+(https://www.gta5-mods.com/tools/packfile-limit-adjuster)
+
+Simple Trainer for GTA V - Unlock any new car
+(https://www.gta5-mods.com/scripts/simple-trainer-for-gtav)
+
+Launch Gta 5 Offline Mode : GTAVLauncherBypass
+(https://gta5mod.net/gta-5-mods/tools/gtavlauncherbypass-1-3/)
+
+
+----- IMPORTANT ---- RISK OF BAN ROCKSTAR GAME ONLINE :
+
+Move all modification files located in: c: \ Program Files \ Rockstar Games \ Grand Theft Auto V
+in another directory. If you start the game online there is RISK OF BAN ROCKSTAR GAME ONLINE .
+
+Before modification, for more ease, select the game files and right click
+  / properties / attributes: hidden.
+You can thus hide the game files so as not to delete them. (rpf file, dll, etc)
+
+To make them visible: folder / right click / folder options / view / restore defaults
+
+====================Pimp BALL my ride 1 (Francais)
+
+----DESCRIPTION:
+
+Quel plaisir ! Vous montez au 7e ciel et vous redescendez sur terre ! Par quelle route ? Avous de choisir ! Mais pendant la descente...vous aurez du plaisir à droite ... et à gauche... soyez attentif ! Des sauts difficiles d'accès. Cette map est conçue pour faire surchauffer n'importe quelle voiture. Non pas dans une course, mais dans des sauts et des acrobaties vertigineux. Des points de teleportation ont ete placer à plusieurs endroits (LSPD, LSCustom, casino et autres) afin de remontez rapidement et tentez un autre parcours.
+
+
+Des DÉFIS vous y attendre et beaucoup d'autres défis à découvrir.
+1- Placez des explosifs C4 AU ENDROIT où se trouvent les ballons et faire exploser en même temps. Et affrontez de face cette dangereuse avalanche !
+2- Percutez les accessoires des grandes statues. (Yeux, dents, chapeau, etc.) 
+3- le grand saut parfait, sans percuter la barrière et parfaitement franchir le tube à 90° degrés!
+
+----INSTALL : (Extract to: Grand Theft Auto V\menyooStuff\Spooner
+In the game, press F8 \ Object Spooner \ Manage Saved Files \ Pimpball my ride \ Load Placements
+
+----REQUIREMENTS: 
+              MENYOO 
+              (https://www.gta5-mods.com/scripts/menyoo-pc-sp)
+
+-----Game FIX: 
+
+gameconfig -- Installation: Open in openIV: mods> update> update.rpf> common> "data" 
+(https://www.gta5-mods.com/misc/infinite-gameconfig)
+
+HeapAdjuster 
+(https://www.gta5-mods.com/tools/heapadjuster)
+
+No Boundary Limits 
+(https://www.gta5-mods.com/scripts/no-boundary-limits-unknown-modder)
+
+Packfile Limit Adjuster
+(https://www.gta5-mods.com/tools/packfile-limit-adjuster)
+
+Simple Trainer for GTA V - Unlock any new car
+(https://www.gta5-mods.com/scripts/simple-trainer-for-gtav)
+
+Launch Gta 5 Offline Mode : GTAVLauncherBypass
+(https://gta5mod.net/gta-5-mods/tools/gtavlauncherbypass-1-3/)
+
+-----IMPORTANT---- RISQUE DE BANNISSEMENT ROCKSTAR GAME ONLINE:
+
+Retirez tout les fichier de modification qui se trouve dans : c:\Program Files\Rockstar Games\Grand Theft Auto V
+dans un autre repertoire. Si vous lancez le jeu online il y a RISQUE DE BANNISSEMENT ROCKSTAR GAME ONLINE.
+
+Avant modification , pour plus de facilite, selectionner les fichier du jeu et clique droit
+ / proprietes / attributes : hidden.
+Vous pouvez ainsi cachez les fichier du jeu pour ne pas les supprimer. (fichier rpf,dll,etc)
+
+Pour les rendre visible: dossier / clique droit / folder options / view / restore defaults 
+
+
+
+
+
+
+
+
+
